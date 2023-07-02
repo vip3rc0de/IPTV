@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
+<channel id="	ERT1.gr">
+<display-name>ERT1 HD</display-name>
+</channel>
+<channel id="	ERT2.gr">
+<display-name>ERT2 HD</display-name>
+</channel>
+<channel id="	ERT3.gr">
+<display-name>ERT3 HD</display-name>
+</channel>
+<channel id="	mega.gr">
+<display-name>MEGA HD</display-name>
+</channel>
+<channel id="	ant1.gr">
+<display-name>ANT1 HD</display-name>
+</channel>
 <channel id="Alpha.gr">
-<display-name>AlphaTV.gr</display-name>
+<display-name>ALPHA HD</display-name>
+</channel>
+<channel id="	star.gr">
+<display-name>STAR HD</display-name>
+</channel>
+<channel id="	skai.gr">
+<display-name>SKAI HD</display-name>
 </channel>
 </tv>
